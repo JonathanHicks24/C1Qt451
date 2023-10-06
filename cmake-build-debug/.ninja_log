@@ -1,0 +1,10 @@
+# ninja log v5
+9	412	7182545304101575	C1Qt451_autogen/timestamp	dc85fc7456b785a2
+9	412	7182545304101575	C1Qt451_autogen/mocs_compilation.cpp	dc85fc7456b785a2
+421	2779	7182545328178786	CMakeFiles/C1Qt451.dir/main.cpp.obj	4d51e782a91eb26e
+9	412	7182545304101575	C:/Users/irond/CLionProjects/C1Qt451/cmake-build-debug/C1Qt451_autogen/timestamp	dc85fc7456b785a2
+9	412	7182545304101575	C:/Users/irond/CLionProjects/C1Qt451/cmake-build-debug/C1Qt451_autogen/mocs_compilation.cpp	dc85fc7456b785a2
+414	2772	7182545328108782	CMakeFiles/C1Qt451.dir/C1Qt451_autogen/mocs_compilation.cpp.obj	538247d621f1896a
+494	1142	7182544739263539	CMakeFiles/C1Qt451.dir/dungeon.cpp.obj	16e5b2d08978e021
+417	2979	7182545330139070	CMakeFiles/C1Qt451.dir/mainwindow.cpp.obj	f425795d9af3ae7b
+2979	3135	7182545331654267	C1Qt451.exe	571a55aedff7af59

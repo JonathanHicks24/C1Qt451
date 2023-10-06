@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "rewritten_code",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "rewritten_code::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rewritten_code-Debug-5713c6defd5d7dc1e2aa.json",
+					"name" : "rewritten_code",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rewritten_code_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rewritten_code_autogen-Debug-500f22b2e3ff479929b8.json",
+					"name" : "rewritten_code_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rewritten_code_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rewritten_code_autogen_timestamp_deps-Debug-9c453a265adf9c8c3877.json",
+					"name" : "rewritten_code_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/irond/CLionProjects/C1Qt451/cmake-build-debug",
+		"source" : "C:/Users/irond/CLionProjects/C1Qt451"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
